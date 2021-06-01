@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "trex_game", "trex_game\trex_game.pyproj", "{9AE4C6E3-07F5-4B8E-9A06-A4F99B3B60A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE4C6E3-07F5-4B8E-9A06-A4F99B3B60A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE4C6E3-07F5-4B8E-9A06-A4F99B3B60A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFFF5FA8-4AC8-4B2E-9F20-E3F294B9FCFC}
+	EndGlobalSection
+EndGlobal
