@@ -3,7 +3,7 @@
 <h1>EL HAREKETLERİ İLE TREX OYUNU OYNAMA</h1>
 
 <p><h3>Elimiz kapalıyken</h3></p> 
-<img src="readme/output_1.jpg" width="480" height="270" >
+<img src="readme/output_1.jpg" width="480" height="270" center="auto">
 
 <h3>Elimiz açıkken</h3>
 
